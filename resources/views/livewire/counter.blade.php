@@ -1,4 +1,4 @@
-<div>
+<div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
     {{-- The whole world belongs to you. --}}
     <h1>livewire-counter</h1>
     <h2>{{ $count }}</h2>
